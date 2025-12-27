@@ -67,10 +67,3 @@ Synthetic Aperture Radar (SAR) images are widely used in remote sensing because 
 ![Result](predictions/grassland.png)
 ![Result](predictions/aggri1.png)
 ---
-
-## 🛠️ How to Run
-
-### 1️⃣ Clone the Repository
-```bash
-git clone https://github.com/your-username/SAR-GAN.git
-cd SAR-GAN
