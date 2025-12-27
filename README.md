@@ -63,9 +63,9 @@ Synthetic Aperture Radar (SAR) images are widely used in remote sensing because 
 - Improved color consistency compared to basic CNN models
 - Enhanced visual clarity for terrain and urban regions
 
-![alt text](image-1.png)
-![alt text](image-3.png)
-
+![Result](predictions/aggri2.png)
+![Result](predictions/grassland.png)
+![Result](predictions/aggri1.png)
 ---
 
 ## 🛠️ How to Run
